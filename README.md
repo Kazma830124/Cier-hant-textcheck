@@ -1,4 +1,4 @@
-# hant-textcheck
+# Cier-hant-textcheck
 
 Traditional Chinese text checker — simplified-character contamination, quote balance, bold balance, blank runs, halfwidth punctuation. One command, line:column precision, Big5 false-positive filtering.
 
